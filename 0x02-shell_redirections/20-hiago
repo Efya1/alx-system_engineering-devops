@@ -1,2 +1,2 @@
 #!/bin/bashi
-tr -d "Cc"
+tr -d 'cC'
